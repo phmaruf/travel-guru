@@ -1,0 +1,18 @@
+.jumbotron{
+    background-image: url(../../image/coxbazar.png);
+    height: 550px;
+    width: 100%;
+    font-weight: bold;
+}
+
+.description{
+    color: #fff;
+}
+
+.jumbotron h1{
+    font-size: 100px;
+}
+.sajek img{
+    height: 200px;
+    width: 300px;
+}
